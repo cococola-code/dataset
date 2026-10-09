@@ -1,4 +1,4 @@
-<img width="1482" height="684" alt="image" src="https://github.com/user-attachments/assets/ecabd2be-cbb3-47f9-989f-98648c3e634a" /># dataset
+# dataset
 ## Dataset Availability
 
 The dataset is available at the following link:
